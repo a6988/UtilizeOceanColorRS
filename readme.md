@@ -11,6 +11,7 @@
 * [GSMaP](https://github.com/a9455/G-Poratal)
 * [Sentinel-3](https://github.com/a6988/sentinel3Tools)
 
-## 最後に
+## 使用に関して
 
-御自由にお使い頂けますが、一切無保証とさせて頂きます。
+それぞれのコードの使用は、MITライセンスに基づいてご使用頂けます。
+
